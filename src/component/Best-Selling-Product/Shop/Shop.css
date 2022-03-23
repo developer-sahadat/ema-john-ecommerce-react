@@ -1,0 +1,25 @@
+.products-container h2 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.products-container h2 span {
+    text-shadow: 2px 3px 5px #FFE0B3;
+}
+
+.product-info {
+    padding: 0 14px;
+}
+
+.product-info h4 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    padding-top: 10px;
+}
+
+.product-info p {
+    margin: 0;
+    padding-bottom: 10px;
+}
